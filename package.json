@@ -1,0 +1,15 @@
+{
+  "name": "CSS4550Spring2016-RandyDavis",
+  "version": "1.0.0",
+  "description": "Jose Annunziato's CS4550 Spring 2016 Full Stack Web Development Class",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Randy Davis",
+  "dependencies": {
+    "express": "~4.8.8"
+  },
+  "license": "ISC"
+}
